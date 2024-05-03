@@ -286,4 +286,11 @@ body{
         display:flex;
         font-size: .8rem;
     }
+    .todoContainer{
+        background-image: url('../data/images/bg-mobile-dark.jpg');
+    }
+    .bgLight{
+        background-image: url('../data/images/bg-mobile-light.jpg');
+    }
 }
+
